@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-Software Engineer | Platform Designer (<*>Work in Progress<*>)
+Software Engineer | Platform Designer (*Work in Progress*)
 
 Welcome to my Github profile! I build software for a living. I'm pretty versatile with different languages and modern DevOps tools, but I didn't want to just stop at the code. I'm teaching myself platform design, trying to bridge the gap between heavy backend engineering and great user experiences.
 <p></p>

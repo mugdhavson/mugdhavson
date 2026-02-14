@@ -77,8 +77,8 @@ Welcome to my Github profile! I build software for a living. I'm pretty versatil
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mugdhavson&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mugdhavson&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 <!--
 # 💻 Tech Stack:
 ### 🔝 Top Contributed Repo

@@ -20,7 +20,7 @@ Welcome to my Github profile! I build software for a living. I'm pretty versatil
 ## 🚀 About Me
 
 - 🎓 With a couple bachelor's degrees from University of Arizona, I'm a graduate in Computer Science and Management Information Systems.
-- 💻 I code for fun, mostly because I love bringing my design sketches to life.
+- 💻 I code for fun, mostly because I love bringing my design to life.
 - 🌟 I’m looking to contribute to open-source projects.
 - 📫 How to reach me: mugdhavsonawane@gmail.com | [LinkedIn](www.linkedin.com/in/mugdhavsonawane)
 <!-- - 📂 Check out my blog. I write down my lessons learned from my projects <link to blog> -->

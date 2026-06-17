@@ -1,8 +1,8 @@
 ## 👋 Hello!
 
-Software Engineer | Platform Designer
+Software Engineer
 
-Welcome to my Github profile! I build platforms for a living. I'm pretty versatile with different languages and modern DevOps tools, but I didn't want to stop at coding. I'm teaching myself platform design, trying to bridge the gap between heavy backend engineering and great user experiences.
+Welcome to my Github profile! I help maintain and evolve a big data platform for a living. I'm pretty versatile with different languages and modern DevOps tools, but I didn't want to stop at coding. I'm teaching myself platform design, trying to bridge the gap between heavy backend engineering and great user experiences.
 <p></p>
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=agroandrew.agroandrew&logoColor=white&color=2bbc8a" />

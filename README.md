@@ -22,7 +22,7 @@ Welcome to my Github profile! I help maintain and evolve a big data platform for
 - 🎓 With a dual Bachelor's from University of Arizona, I'm a graduate in Computer Science and Management Information Systems.
 - 💻 I code for fun, mostly because I love bringing my designs to life.
 - 🌟 I’m looking to contribute to open-source projects.
-- 📫 How to reach me: mugdhavsonawane@gmail.com | [LinkedIn](www.linkedin.com/in/mugdhavsonawane)
+- 📫 How to reach me: mugdhavsonawane@gmail.com | [LinkedIn](https://www.linkedin.com/in/mugdhavsonawane)
 <!-- - 📂 Check out my blog. I write down my lessons learned from my projects <link to blog> -->
 
 
